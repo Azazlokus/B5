@@ -1,4 +1,3 @@
-
 :root {
     --color1: #05b1d1;
     --color2: #52339a;
@@ -124,3 +123,4 @@ footer {
 
 .bg2 {
     background-color: var(--color2)
+}
