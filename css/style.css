@@ -91,6 +91,17 @@ footer {
     border: 3px solid var(--color1);
 }
 
+
+/* author*/
+
+.author {
+    padding-bottom: 0%;
+}
+
+.itd-img {
+    max-width: 260px;
+}
+
 .about i {
     font-size: 25;
     color: var(--color2)
